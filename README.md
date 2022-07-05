@@ -6,10 +6,11 @@
   <header>
     <h1>НОВАСТИ</h1>
   </header>
-  <nav><a href="https://maike1230.github.io/Russiannews/">НАЗАТ</a> | <a href="2.html">РАССИЯ</a> |
-       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="4.html">АМЕРИКА</a></nav>
+  <nav><a href="https://maike1230.github.io/Russiannews/"><</a> | <a href="https://maike1230.github.io/Russiannews/">РАССИЯ</a> |
+       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https://maike1230.github.io/USA/">АМЕРИКА</a></nav>
   <article>
     <h2>Добро пожаловать!</h2>
+    [![изоброжение](https://img.championat.com/team/logo/16184408351012388661.jpg)
   </article>
  </body> 
 <h1>Утримання армії зараз обходиться Україні 130 млрд грн<h1>
