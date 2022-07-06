@@ -6,7 +6,7 @@
   <header>
     <h1>НОВАСТИ</h1>
   </header>
-  <nav><a href="https://maike1230.github.io/Russiannews/"><</a> | <a href="https://maike1230.github.io/Russiannews/">РАССИЯ</a> |
+  <nav><a href="https://maike1230.github.io/Russiannews/"><</a> | <a href=" https://maike1230.github.io/-/">УКРАИНА</a> |
        <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https://maike1230.github.io/USA/">АМЕРИКА</a></nav>
   <article>
     <h2>Добро пожаловать!</h2>
